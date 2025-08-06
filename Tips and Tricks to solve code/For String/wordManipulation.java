@@ -1,4 +1,4 @@
-public class wordManipulation {
+public class words_Manipulation {
     public static void main(String[] args) {
         String s1="This is a string.";
         String word ="";//For storing the modified words.
